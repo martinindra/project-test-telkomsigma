@@ -85,7 +85,6 @@
                                             <i class="fas fa-trash"></i>
                                         </span>
                                     </a>
-                                    {{-- <p><i>Last Updated {{ $item->updated_at }}</i></p> --}}
                                 </td>
                             </tr>
                         @endforeach
